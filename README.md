@@ -17,7 +17,7 @@ I'm Shakthi, a Computer Science student with a fervor for technology and a knack
 
 ## Connect with Me
 
-- 💼 LinkedIn: Shakthi(https://www.linkedin.com/in/sri-shakthi-sarath-chintapalli-852402250/)
+- 💼 LinkedIn: Shakthi(https://www.linkedin.com/in/s-s-s-c/)
 
 ## Open to Collaboration
 
