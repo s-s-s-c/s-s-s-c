@@ -44,16 +44,6 @@
 
 ---
 
-## 🏆 Notable Work & Projects  
-
-✅ **Multimodal Heart Disease Prediction Model** - Combining **deep learning and medical data** for accurate diagnosis.  
-✅ **YOLOv9-Based Stair Classification Model** - Developed and optimized a **stair detection model** for navigation.  
-✅ **Traffic Sign Classification Model** - Built a high-accuracy **computer vision model** using **ResNet & CNNs**.  
-✅ **Real-Time Object Detection** - Implemented and fine-tuned **YOLO-based detection** for real-world applications.  
-✅ **OCR-Based Entity Extraction** - Developed a **machine learning pipeline** for extracting **key product details**.  
-
----
-
 ## 🚀 What I’m Working On  
 
 - 🔬 Optimizing AI models for **low-power devices and edge computing**.  
